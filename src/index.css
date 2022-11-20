@@ -49,3 +49,7 @@ body {
   padding-top: 0.5rem;
   background-color: lightgreen;
 }
+
+img {
+  width: 75%;
+}
